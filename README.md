@@ -9,8 +9,8 @@ It includes:
 - KPI summary cards
 
 ## 📁 Files Included
-- `coffee_tea_sales_dashboard.pbix` – Main Power BI file
-- `sample_data.csv` – Sample raw data
+- `Beverages Sales.pbix` – Main Power BI file
+- `final.csv` – Sample raw data
 - `/screenshots/` – Dashboard preview images
 
 ## 📊 Demo
